@@ -16,6 +16,7 @@ include_directories(${CMAKE_CURRENT_BINARY_DIR})
 set(SRC
   src/main.cpp
   src/email.cpp
+  src/datetimeparser.cpp
   )
 
 # libraries
